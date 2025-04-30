@@ -1,0 +1,5 @@
+Admin|admin|admin
+Reader|reader|reader|
+Admin|raouf|raouf
+Admin|zaki|zaki
+Reader|reader2|reader2|

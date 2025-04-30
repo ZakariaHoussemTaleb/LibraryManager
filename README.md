@@ -18,6 +18,10 @@ i tryed it on ubunto:
 
 java --module-path /path/to/javafx-sdk-21.0.2/lib \
      --add-modules javafx.controls,javafx.fxml \
-     -jar app/demo2.jar
+     -jar demo2.jar
+
+default admin account = "admin|admin"
+default reader account = "reader|reader"
+
 
 Zakaria (M1 ISIL student)

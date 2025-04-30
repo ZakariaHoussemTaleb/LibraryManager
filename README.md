@@ -5,14 +5,14 @@
 
 ---
 
-## 🚀 How to Run (Manually)
+## How to Run (Manually)
 - [⬇ Download LibraryManager.zip](https://github.com/ZakariaHoussemTaleb/LibraryManager/releases/download/v1.0/LibraryManager.zip)
 
 zip content :
 LibraryManager/
-├── books.txt          # Books database
-├── users.txt          # Users database
-└── demo2.jar 
+ books.txt          # Books database
+ users.txt          # Users database
+ demo2.jar 
 
 i tryed it on ubunto:
 
